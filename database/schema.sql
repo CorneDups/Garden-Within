@@ -1,0 +1,11 @@
+-- Inner Garden database schema
+-- v0.01
+--
+-- Sprint 1 intentionally contains no persistent tables.
+-- Sprint 2 will introduce:
+--   users
+--   player_profiles
+--   game_sessions
+--
+-- Keeping this file now establishes the database boundary
+-- without prematurely designing the full schema.
